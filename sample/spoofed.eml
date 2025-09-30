@@ -1,0 +1,7 @@
+From: Bank Security <security@bank.com>
+Return-Path: <mailer@random-spam.biz>
+Received: from unknown ([198.51.100.42])
+Authentication-Results: random-spam.biz; spf=fail smtp.mailfrom=random-spam.biz
+Date: Fri, 01 Aug 2025 10:10:00 +0000
+Subject: Urgent: verify your account
+To: you@example.org

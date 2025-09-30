@@ -1,0 +1,7 @@
+From: Support <support@example.com>
+Return-Path: <support@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.9])
+Authentication-Results: mail.example.com; spf=pass smtp.mailfrom=example.com; dkim=pass header.d=example.com
+Date: Fri, 01 Aug 2025 10:00:00 +0000
+Subject: Your receipt
+To: you@example.org
