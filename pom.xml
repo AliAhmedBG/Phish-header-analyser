@@ -18,7 +18,7 @@
     </properties>
 
     <dependencies>
-        <!-- Jakarta Mail for parsing .eml files-->
+        <!-- Jakarta Mail for parsing .eml -->
         <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>jakarta.mail</artifactId>

@@ -13,7 +13,7 @@ import java.util.Properties;
  * Core analyzer: takes raw .eml bytes and reads key headers.
  * applies a couple of simple phishing heuristics, and returns a ScoringResult.
  */
-public class EmailHeaderAnalyzer {
+public class EmailHeaderAnalyser {
 
     // Analyses a raw .eml file and returns a scoring result
     public ScoringResult analyze(byte[] emlBytes) {
